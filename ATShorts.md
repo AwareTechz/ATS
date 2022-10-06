@@ -1,2 +1,2 @@
-"""Motivational Quotes
+Motivational Quotes
 
